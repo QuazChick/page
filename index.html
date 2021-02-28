@@ -26,6 +26,7 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 </head>
 
 <body>
@@ -147,7 +148,25 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
-
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#252e39"
+    },
+    "button": {
+      "background": "#3E3CE4"
+    }
+  },
+  "theme": "classic",
+  "content": {
+    "message": "This website uses cookies to ensure you get the best experience.",
+    "dismiss": "Okay!",
+    "link": "Privacy Policy"
+  }
+});
+</script>
 </body>
 
 </html>
