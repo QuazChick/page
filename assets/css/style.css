@@ -395,7 +395,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 1px;
   display: inline-block;
   padding: 8px 30px 9px 30px;
-  border-radius: 50px;
+  border-radius: 16px;
   transition: 0.5s;
   border: 2px solid #fff;
   color: #fff;
