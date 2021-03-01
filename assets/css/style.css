@@ -1887,11 +1887,13 @@ section {
 }
 
 #footer .credits {
-  padding-top: 5px;
+  padding: 8px 0;
   font-size: 8px;
   color: #444444;
   width: 56px;
   height: 56px;
+  margin-right: 4px;
+  display: inline-block;
 }
 
 #footer .social-links a {
