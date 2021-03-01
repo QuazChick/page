@@ -1897,13 +1897,13 @@ section {
 }
 
 #footer .social-links a {
-  font-size: 38px;
-  line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
   width: 56px;
   height: 56px;
-  transition: 0.3s;
+  display: inline-block;
+  color: #fff;
+  font-size: 8px;
 }
 
 
