@@ -400,6 +400,7 @@ h1, h2, h3, h4, h5, h6 {
 #addons .btn-get-started:hover {
   background: #3E3CE4;
   border: 2px solid #fff;
+  color: #fff;
 }
 
 #addons .btn-get-started {
