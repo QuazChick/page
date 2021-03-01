@@ -1899,7 +1899,7 @@ section {
 #footer .social-links a {
   font-size: 38px;
   display: inline-block;
-  background: #3E3CE4;
+  background: #fff;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1914,7 +1914,7 @@ section {
 #hero .social-links a {
   font-size: 38px;
   display: inline-block;
-  background: #3E3CE4;
+  background: #fff;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1927,12 +1927,12 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #6076E9;
+  background: #fff;
   color: #fff;
   text-decoration: none;
 }
 #hero .social-links a:hover {
-  background: #6076E9;
+  background: #fff;
   color: #fff;
   text-decoration: none;
 }
