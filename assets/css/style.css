@@ -397,6 +397,25 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
+#addons .btn-get-started:hover {
+  background: #3E3CE4;
+  border: 2px solid #fff;
+}
+
+#addons .btn-get-started {
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 30px 9px 30px;
+  border-radius: 8px;
+  transition: 0.5s;
+  border: 2px solid #fff;
+  color: #fff;
+}
+
 #hero .btn-get-started:hover {
   background: #3E3CE4;
   border: 2px solid #fff;
