@@ -1890,6 +1890,8 @@ section {
   padding-top: 5px;
   font-size: 8px;
   color: #444444;
+  width: 56px;
+  height: 56px;
 }
 
 #footer .social-links a {
